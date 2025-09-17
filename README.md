@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [project.pdf](Educational_AI_Assistant_Full_Project (3) (1).pdf)
-- 📓 *app.py.ipynb Notebook:* [healthai.ipynb](healthai.ipynb)
-- 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/RAJASEKAR1/health-ai1)
-- 🎥 *Demo Video:* [Watch here](https://github.com/23ucs580-spec/HEALTHI-AI-222003/releases/download/v1.0.0/demo.vedio.1.1.mp4)
+- 📓 *app.py.ipynb Notebook:* [healthai.ipynb](pl.ipynb)
+- 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/23ucs542/pl1)
+- 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1fYvr1aNpbGz7-Jvo_UcwDI_sIbykABxF/view?usp=sharing)
