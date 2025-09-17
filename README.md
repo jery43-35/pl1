@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [project.pdf](Educational_AI_Assistant_Full_Project (3) (1).pdf)
-- 📓 *app.py.ipynb Notebook:* [healthai.ipynb](pl.ipynb)
-- 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/23ucs542/pl1)
+- 📓 *app.py.ipynb Notebook:* [pl.ipynb](pl.ipynb)
+- 🤖 *Live Hugging Face:* [edu.py](https://huggingface.co/spaces/23ucs542/pl1)
 - 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1fYvr1aNpbGz7-Jvo_UcwDI_sIbykABxF/view?usp=sharing)
